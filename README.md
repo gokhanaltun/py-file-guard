@@ -7,7 +7,7 @@
 ```
 pip3 install cryptography
 ```
--Tkinter for Linux.
+-Python Tkinter.
 ```
 sudo apt install python3-tk
 ```
