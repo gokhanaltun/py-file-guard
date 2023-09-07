@@ -1,6 +1,9 @@
 # py-file-guard
  Python File Encryptor
 
+## Note
+-Back up your files before use. If an unexpected error occurs during the encryption and decryption process or you lose your encryption key, your files may not be recoverable.
+
 
 ## Requirements
 -Python cryptography library
